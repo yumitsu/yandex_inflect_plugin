@@ -1,0 +1,7 @@
+require 'rubygems'
+require 'test/unit'
+require 'active_record'
+require 'active_support'
+require 'active_support/test_case'
+require 'i18n'
+require 'yandex_inflect'
